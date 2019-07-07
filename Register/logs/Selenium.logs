@@ -1,0 +1,5 @@
+19:20:43,603  INFO BaseTest<strong>{1}</strong>:30 - ************ startting base test *********************
+19:20:43,619 DEBUG BaseTest<strong>{1}</strong>:31 - opening browser
+19:20:48,938 DEBUG BaseTest<strong>{1}</strong>:51 - entreing url
+19:20:52,470 DEBUG BaseTest<strong>{1}</strong>:58 - printing in console
+19:20:52,472 DEBUG BaseTest<strong>{1}</strong>:65 - closing the browser

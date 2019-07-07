@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11360" started-at="2019-07-07T13:50:43Z" finished-at="2019-07-07T13:50:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11360" started-at="2019-07-07T13:50:43Z" finished-at="2019-07-07T13:50:54Z">
+      <class name="automation.source.BaseTest">
+        <test-method status="PASS" signature="testInvokeBrowser()[pri:0, instance:automation.source.BaseTest@a3ffec]" name="testInvokeBrowser" is-config="true" duration-ms="8939" started-at="2019-07-07T19:20:43Z" finished-at="2019-07-07T19:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvokeBrowser -->
+        <test-method status="PASS" signature="testprop()[pri:0, instance:automation.source.BaseTest@a3ffec]" name="testprop" duration-ms="6" started-at="2019-07-07T19:20:52Z" finished-at="2019-07-07T19:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testprop -->
+        <test-method status="PASS" signature="testCloseBrowser()[pri:0, instance:automation.source.BaseTest@a3ffec]" name="testCloseBrowser" is-config="true" duration-ms="2397" started-at="2019-07-07T19:20:52Z" finished-at="2019-07-07T19:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCloseBrowser -->
+      </class> <!-- automation.source.BaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
