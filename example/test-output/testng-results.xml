@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14036" started-at="2019-08-31T05:35:13Z" finished-at="2019-08-31T05:35:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14036" started-at="2019-08-31T05:35:13Z" finished-at="2019-08-31T05:35:27Z">
+      <class name="practice.example.SamplExample">
+        <test-method status="PASS" signature="beforeTestCase1()[pri:0, instance:practice.example.SamplExample@6d00a15d]" name="beforeTestCase1" is-config="true" duration-ms="11643" started-at="2019-08-31T11:05:13Z" finished-at="2019-08-31T11:05:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase1 -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:practice.example.SamplExample@6d00a15d]" name="testCase1" duration-ms="35" started-at="2019-08-31T11:05:25Z" finished-at="2019-08-31T11:05:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="afterTestCase1()[pri:0, instance:practice.example.SamplExample@6d00a15d]" name="afterTestCase1" is-config="true" duration-ms="2338" started-at="2019-08-31T11:05:25Z" finished-at="2019-08-31T11:05:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase1 -->
+      </class> <!-- practice.example.SamplExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
